@@ -1,0 +1,23 @@
+{
+  "vender": [
+    {
+      "id": "9c20",
+      "username": "moha",
+      "email": "sreevpr2004@gmail.com",
+      "password": "1232"
+    },
+    {
+      "id": "9c21",
+      "username": "mohan",
+      "email": "mohanapriyan1386@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "e341",
+      "username": "KUMAR",
+      "email": "sreevpr2004@gmail.com",
+      "password": "11221",
+      "role": "user"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "d7a1",
+      "username": "mohan",
+      "email": "sreevpr2004@gmail.com",
+      "password": "123456789",
+      "role": "vendor"
+    },
+    {
+      "id": "2fe4",
+      "username": "raj",
+      "email": "raj@1386@gmail.com",
+      "password": "12345678",
+      "role": "customer"
+    },
+    {
+      "id": "2a7b",
+      "username": "Mohana priyan",
+      "email": "sreevpr2004@gmail.com",
+      "password": "12345678",
+      "role": "admin"
+    }
+  ]
+}
