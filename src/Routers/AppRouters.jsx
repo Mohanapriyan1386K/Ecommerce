@@ -1,4 +1,3 @@
-// src/Routes/AppRouters.js
 import React from "react";
 import {
   createHashRouter,
