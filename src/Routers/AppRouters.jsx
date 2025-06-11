@@ -1,3 +1,4 @@
+
 import React from "react";
 import {
   createHashRouter,
@@ -25,7 +26,7 @@ import Productlist from "../Screens/HOME/Vendar/Productlist";
 import ApprovedProduct from "../Screens/HOME/Vendar/ApprovedProduct";
 import CartPage from "../Screens/HOME/User/CartPage";
 import Payment from "../Screens/HOME/User/Payment";
-import ContactForm from "../Screens/HOME/User/Contactform";
+import contactForm from "../Screens/HOME/User/ContactForm";
 
 const router = createHashRouter(
   createRoutesFromElements(
@@ -51,7 +52,7 @@ const router = createHashRouter(
       >
         <Route path="home" element={<Home />} />
         <Route path="cart" element={<CartPage />} />
-        <Route path="contact" element={<ContactForm />} />
+        <Route path="contact" element={<contactForm />} />
         <Route path="payment" element={<Payment />} />
       </Route>
 
